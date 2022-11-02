@@ -1,2 +1,4 @@
-# Hackerrank-React-Certification
- A certification test for HackerRank
+# HACKERRANK Reactjs Certification Solution
+* npm install 
+& npm start
+
